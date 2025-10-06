@@ -4,9 +4,9 @@
 :root{
      --fonte-titulo:"Lobster Two";
      --fonte-texto:"Smooch Sans";
-     --cor-principal: #82c5ff;
+     --cor-principal:#88c0d0;
      --cor-secundaria:#2e3440;
-     --cor-destaque:#88c0d0;
+     --cor-destaque:#82c5ff;
      --cor-texto:#000000;
  }
 body{
