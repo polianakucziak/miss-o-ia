@@ -57,3 +57,22 @@ function respostaSelecionada(opcaoSelecionada){
     }
     mostraPergunta();
 }
+function mostraResultado(){
+    caixaPerguntas.textContent = 'Em 2050, $(nome)';
+    textoResultados.textContent = historiaFinal;
+    caixaAlternativas.textContent = "";
+    caixaResultados,classList.add ("mostrar");
+    botaoJogarNovamente.addEventListener("click", jogaNovamente);
+}
+function jogaNovamente(){
+    atual = 0;
+    historiaFinal = "";
+    caixaResultados.classList.remove("mostrar");
+    mostraPergunta();
+}
+function substituiNome(){
+    for (const pergunta of perguntas){
+        pergunta.enunciado = pergunta.enunciado.replace(/você/g, none);
+    }
+}
+substituiNome();
