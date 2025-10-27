@@ -40,4 +40,20 @@ function mostraAlternativas(){
         botaoAlternativas.addEventListener("click", () => respostaSelecionada(alternativa));
         caixaAlternativas.appendChild(botaoAlternativas);
     }
+    function mostraAfirmacoes (){
+        for(const afrimacoes of perguntaAtual.afrimacoes){
+
+        }
+    }
+}
+function respostaSelecionada(opcaoSelecionada){
+    const afrimacoes = aleatorio(opcaoSelecionada.afimacao);
+    historiaFinal += afrimacoes + "";
+    if (opcaoSelecionada.proxima !== undefined){
+        atual = opcaoSelecionada.proxima; 
+    }else{
+        mostraResultado();
+        return;
+    }
+    mostraPergunta();
 }
