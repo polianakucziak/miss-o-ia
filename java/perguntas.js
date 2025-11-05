@@ -1,12 +1,39 @@
 export const perguntas = [
     {
-    enunciado:"O Painel Intergovernamental sobre Mudanças Climáticas (IPCC) alertou que o mundo tem um período de tempo limitado (cerca de uma década, a partir de agora) para realizar cortes profundos e rápidos nas emissões de gases de efeito estufa e evitar as consequências mais catastróficas do aquecimento global. A inação ou a ação insuficiente neste período decisivo determinará se as futuras gerações herdarão um planeta relativamente estável ou uma Terra marcada por crises ambientais e sociais contínuas. O que você faria ",
+    enunciado:"O problema central é a escolha entre o custo e o esforço presentes versus o bem-estar e a segurança das gerações futuras.",
     alternativas:[
         {
-            texto: "A humanidade está em uma encruzilhada climática devido ao aumento das emissões de gases de efeito estufa. As ações que tomamos hoje determinarão a qualidade de vida das futuras gerações.O Desafio Central: Promover uma transformação global rápida e profunda (em energia, consumo e governança) para limitar o aquecimento global a $1.5^\circ\text{C}$ e garantir um futuro habitável.",
+            texto: "Implementar imediatamente um pacote de medidas globais e coordenadas para alcançar a neutralidade de carbono até meados do século, investir maciçamente em energias renováveis, transportes sustentáveis, e promover a restauração de ecossistemas.",
             afirmacao:[
-                "Ação coordenada, investimento em energias limpas e economia circular.  Um planeta mais estável, limpo e justo, com impactos climáticos gerenciáveis."
+                "Ação coordenada, investimento em energias limpas e economia circular.  Um planeta mais estável, limpo e justo, com impactos climáticos gerenciáveis.A adoção urgente da neutralidade de carbono é justificada porque o custo da inação (catástrofe futura) é incomensuravelmente maior do que o custo da transição (sacrifício presente). Agir agora é a forma mais eficaz de minimizar o dano total e o sofrimento agregado para todas as gerações."
            ],
+           proxima : 1,
+        },
+        {
+          texto:"Continuar com as atuais políticas e níveis de emissão, com foco principal em adaptação aos impactos climáticos inevitáveis (como construir defesas costeiras ou sistemas de alerta), adiando grandes transições energéticas ou regulamentações rigorosas para evitar choques econômicos imediatos." , 
+          afirmacao: [
+               "O melhor resultado alcançado pela Ação Imediata é a garantia de um futuro com clima estável, menos eventos extremos e maior estabilidade de recursos e social. Isso protege a saúde, a segurança e a economia de nossos descendentes, garantindo um planeta muito mais habitável e próspero."
+          ],
+          proxima: 2,
+        }
+    ]
+},
+{
+    enunciado:
+    alternativas:[
+        {
+            texto:
+            afirmacao:[
+
+            ],
+            proxima:3,
+        },
+        {
+            texto:
+            afirmacao:[
+
+            ],
+            proxima: 4,
         }
     ]
 }
