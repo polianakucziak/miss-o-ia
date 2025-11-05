@@ -16,7 +16,7 @@ export const perguntas = [
           ],
           proxima: 2,
         }
-    ],
+    ]
 },
 {
     enunciado:
