@@ -20,8 +20,8 @@ export const perguntas = [
 },
 {
     enunciado:
-    alternativas:[
         "Considerando que as nações desenvolvidas historicamente contribuíram mais para as emissões de gases de efeito estufa, e que as nações em desenvolvimento são frequentemente as mais vulneráveis aos impactos climáticos, qual abordagem de ação climática equilibra a urgência de cortes drásticos de emissões com os princípios de justiça e equidade global, de forma a obter o maior engajamento e o resultado mais benéfico para o conjunto da população mundial?",
+         alternativas:[
         {
             texto:"Ação que mais maximiza o bem-estar global: As nações ricas devem liderar os cortes e financiar a transição nos países mais pobres. Isso acelera o corte de emissões globais e garante o engajamento de todos, sendo o caminho mais eficaz para evitar o máximo de sofrimento futuro.",
             afirmacao:[
