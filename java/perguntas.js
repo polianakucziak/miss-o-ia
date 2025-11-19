@@ -15,8 +15,8 @@ export const perguntas = [
                "O melhor resultado alcançado pela Ação Imediata é a garantia de um futuro com clima estável, menos eventos extremos e maior estabilidade de recursos e social. Isso protege a saúde, a segurança e a economia de nossos descendentes, garantindo um planeta muito mais habitável e próspero."
           ],
           proxima: 2,
-        }
-    ]
+        },
+    ],
 },
 {
     enunciado:
@@ -36,17 +36,17 @@ export const perguntas = [
 
             ],
             proxima: 4,
-        }
-    ]
+        },
+    ],
 },
 {
     enunciado:
-    ": As decisões de hoje sobre aquecimento global e sustentabilidade definirão a vida das futuras gerações.",
+    " As decisões de hoje sobre aquecimento global e sustentabilidade definirão a vida das futuras gerações.",
     alternativas:[
         {
-            texto:
+            texto:"Adiar metas climáticas, apostando em futuras tecnologias para resolver o problema.",
             afirmacao:[
-                " Ação Imediata (Favorável): Redução urgente de emissões e investimento em energia limpa."
+                " Ação Imediata (Favorável): Redução urgente de emissões e investimento em energia limpa.",
 
             ],
             proxima:3,
@@ -58,8 +58,8 @@ export const perguntas = [
 
             ],
             proxima: 4,
-        }
-    ]
+        },
+    ],
 },
 {
     enunciado:"sociedade deve escolher o legado ambiental: um planeta seguro e habitável ou um planeta com desastres e escassez.",
@@ -80,8 +80,8 @@ export const perguntas = [
 
             ],
             proxima: 4,
-        }
-    ]
+        },
+    ],
 },
 {
     enunciado:"A humanidade precisa decidir se age agora para evitar o pior da crise climática ou se a inércia condenará as próximas gerações a um planeta instável.",
@@ -102,7 +102,7 @@ export const perguntas = [
 
             ],
             proxima: 4,
-        }
-    ]
+        },
+    ],
 },
-]
+];
