@@ -12,11 +12,11 @@ export const perguntas = [
         {
           texto:"Continuar com as atuais políticas e níveis de emissão, com foco principal em adaptação aos impactos climáticos inevitáveis (como construir defesas costeiras ou sistemas de alerta), adiando grandes transições energéticas ou regulamentações rigorosas para evitar choques econômicos imediatos." , 
           afirmacao: [
-               "O melhor resultado alcançado pela Ação Imediata é a garantia de um futuro com clima estável, menos eventos extremos e maior estabilidade de recursos e social. Isso protege a saúde, a segurança e a economia de nossos descendentes, garantindo um planeta muito mais habitável e próspero."
+               "O melhor resultado alcançado pela Ação Imediata é a garantia de um futuro com clima estável, menos eventos extremos e maior estabilidade de recursos e social. Isso protege a saúde, a segurança e a economia de nossos descendentes, garantindo um planeta muito mais habitável e próspero.",
           ],
           proxima: 2,
         },
-    ],
+    ]
 },
 {
     enunciado:
@@ -37,7 +37,7 @@ export const perguntas = [
             ],
             proxima: 4,
         },
-    ],
+    ]
 },
 {
     enunciado:
@@ -59,7 +59,7 @@ export const perguntas = [
             ],
             proxima: 4,
         },
-    ],
+    ]
 },
 {
     enunciado:"sociedade deve escolher o legado ambiental: um planeta seguro e habitável ou um planeta com desastres e escassez.",
@@ -81,7 +81,7 @@ export const perguntas = [
             ],
             proxima: 4,
         },
-    ],
+    ]
 },
 {
     enunciado:"A humanidade precisa decidir se age agora para evitar o pior da crise climática ou se a inércia condenará as próximas gerações a um planeta instável.",
@@ -103,6 +103,6 @@ export const perguntas = [
             ],
             proxima: 4,
         },
-    ],
+    ]
 },
 ];
