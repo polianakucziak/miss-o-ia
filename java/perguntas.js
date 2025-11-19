@@ -30,8 +30,9 @@ export const perguntas = [
             proxima:3,
         },
         {
-            texto:
+            texto:"A humanidade precisa decidir se age agora para evitar o pior da crise climática ou se a inércia condenará as próximas gerações a um planeta instável.",
             afirmacao:[
+                "Ação Decisiva Global (Favorável): Compromisso imediato com a neutralidade de carbono e investimento maciço em soluções baseadas na natureza e tecnologia limpa.",
 
             ],
             proxima: 4,
@@ -40,17 +41,20 @@ export const perguntas = [
 },
 {
     enunciado:
+    ": As decisões de hoje sobre aquecimento global e sustentabilidade definirão a vida das futuras gerações.",
     alternativas:[
         {
             texto:
             afirmacao:[
+                " Ação Imediata (Favorável): Redução urgente de emissões e investimento em energia limpa."
 
             ],
             proxima:3,
         },
         {
-            texto:
+            texto:"Aumento extremo de temperatura (acima de $3^\circ C$) e catástrofes, comprometendo o futuro.",
             afirmacao:[
+                "Inércia Contínua (Não Favorável): Atraso nas políticas climáticas e foco em combustíveis fósseis.",
 
             ],
             proxima: 4,
@@ -58,18 +62,21 @@ export const perguntas = [
     ]
 },
 {
-    enunciado:
+    enunciado:"sociedade deve escolher o legado ambiental: um planeta seguro e habitável ou um planeta com desastres e escassez.",
     alternativas:[
+        "celeração da Transição Verde (Favorável): Grande investimento em energia renovável e proteção de biomas.",
         {
-            texto:
+            texto:" Limite de $1.5^\circ C$ no aquecimento, segurança hídrica/alimentar e empregos verdes.",
             afirmacao:[
+                "Manutenção do Status Quo Fóssil (Não Favorável): Continuação da dependência de combustíveis fósseis e atraso em regulamentações.",
 
             ],
             proxima:3,
         },
         {
-            texto:
+            texto:"Ponto-chave: Implementação de tecnologias de Captura e Armazenamento de Carbono (CAC) em larga escala, juntamente com o reflorestamento massivo e proteção dos oceanos.",
             afirmacao:[
+                "A falta de cooperação internacional, a resistência da indústria fóssil e o foco em lucros de curto prazo prevalecem, resultando na sobrecarga ecológica do planeta e na incapacidade de lidar com os impactos em cascata.",
 
             ],
             proxima: 4,
@@ -77,18 +84,21 @@ export const perguntas = [
     ]
 },
 {
-    enunciado:
+    enunciado:"A humanidade precisa decidir se age agora para evitar o pior da crise climática ou se a inércia condenará as próximas gerações a um planeta instável.",
     alternativas:[
+        "Ação Decisiva Global (Favorável): Compromisso imediato com a neutralidade de carbono e investimento maciço em soluções baseadas na natureza e tecnologia limpa.",
         {
-            texto:
+            texto:"Planeta estabilizado, mantendo o aquecimento próximo de $1.5^\circ C$ e garantindo recursos essenciais.",
             afirmacao:[
+                "Atraso e Ceticismo (Não Favorável): Continuação da dependência de combustíveis fósseis e falha em cumprir metas de redução de emissões.",
 
             ],
             proxima:3,
         },
         {
-            texto:
+            texto:"A humanidade precisa decidir se age agora para evitar o pior da crise climática ou se a inércia condenará as próximas gerações a um planeta instável.",
             afirmacao:[
+                "Ação Decisiva Global (Favorável): Compromisso imediato com a neutralidade de carbono e investimento maciço em soluções baseadas na natureza e tecnologia limpa.",
 
             ],
             proxima: 4,
