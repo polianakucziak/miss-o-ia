@@ -66,7 +66,7 @@ export const perguntas = [
     alternativas:[
         "celeração da Transição Verde (Favorável): Grande investimento em energia renovável e proteção de biomas.",
         {
-            texto:" Limite de $1.5^\circ C$ no aquecimento, segurança hídrica/alimentar e empregos verdes.",
+            texto:" Limite no aquecimento, segurança hídrica/alimentar e empregos verdes.",
             afirmacao:[
                 "Manutenção do Status Quo Fóssil (Não Favorável): Continuação da dependência de combustíveis fósseis e atraso em regulamentações.",
 
@@ -88,7 +88,7 @@ export const perguntas = [
     alternativas:[
         "Ação Decisiva Global (Favorável): Compromisso imediato com a neutralidade de carbono e investimento maciço em soluções baseadas na natureza e tecnologia limpa.",
         {
-            texto:"Planeta estabilizado, mantendo o aquecimento próximo de $1.5^\circ C$ e garantindo recursos essenciais.",
+            texto:"Planeta estabilizado, mantendo o aquecimento e garantindo recursos essenciais.",
             afirmacao:[
                 "Atraso e Ceticismo (Não Favorável): Continuação da dependência de combustíveis fósseis e falha em cumprir metas de redução de emissões.",
 
