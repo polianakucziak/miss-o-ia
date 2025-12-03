@@ -52,7 +52,7 @@ export const perguntas = [
             proxima:3,
         },
         {
-            texto:"Aumento extremo de temperatura (acima de $3^\circ C$) e catástrofes, comprometendo o futuro.",
+            texto:"Aumento extremo de temperatura e catástrofes, comprometendo o futuro.",
             afirmacao:[
                 "Inércia Contínua (Não Favorável): Atraso nas políticas climáticas e foco em combustíveis fósseis.",
 
