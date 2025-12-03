@@ -1,6 +1,6 @@
-const nomes = ["Daiane", "lisiane", "Angela", "Gbrieli"];
+const nomes = ["Daiane", "Lisiane", "Rodrigo", "Angela", "Gabrieli"];
 export function aleatorio (lista){
-    const posicao = Math.floor (Math.rondom()*lista.lenght);
+    const posicao = Math.floor(Math.random()*lista.lenght);
     return lista [posicao];
 }
-export const nome = aleatorio(nomes);
+export const nome = aleatorio(nomes)
